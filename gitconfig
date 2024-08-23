@@ -30,5 +30,5 @@
 [fetch]
   prune = true
 [user]
-	name = Greg Zentkovich
-	email = gzentkovich@gmail.com
+	name = your_name_here
+	email = your.name@your.domain.dev
